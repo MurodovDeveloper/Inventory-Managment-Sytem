@@ -1,0 +1,12 @@
+F:\Files\Mvc.Domain\bin\Debug\net7.0\Mvc.Domain.deps.json
+F:\Files\Mvc.Domain\bin\Debug\net7.0\Mvc.Domain.dll
+F:\Files\Mvc.Domain\bin\Debug\net7.0\Mvc.Domain.pdb
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.csproj.AssemblyReference.cache
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.AssemblyInfoInputs.cache
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.AssemblyInfo.cs
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.csproj.CoreCompileInputs.cache
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.dll
+F:\Files\Mvc.Domain\obj\Debug\net7.0\refint\Mvc.Domain.dll
+F:\Files\Mvc.Domain\obj\Debug\net7.0\Mvc.Domain.pdb
+F:\Files\Mvc.Domain\obj\Debug\net7.0\ref\Mvc.Domain.dll

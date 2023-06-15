@@ -1,0 +1,17 @@
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Application.deps.json
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Application.dll
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Application.pdb
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.csproj.AssemblyReference.cache
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.AssemblyInfoInputs.cache
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.AssemblyInfo.cs
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.csproj.CoreCompileInputs.cache
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.dll
+F:\Files\Mvc.Application\obj\Debug\net7.0\refint\Mvc.Application.dll
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.pdb
+F:\Files\Mvc.Application\obj\Debug\net7.0\ref\Mvc.Application.dll
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Application.runtimeconfig.json
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Domain.dll
+F:\Files\Mvc.Application\bin\Debug\net7.0\Mvc.Domain.pdb
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.csproj.CopyComplete
+F:\Files\Mvc.Application\obj\Debug\net7.0\Mvc.Application.genruntimeconfig.cache
